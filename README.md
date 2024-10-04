@@ -1,7 +1,5 @@
 # 👋 **Hello, I'm Vladyslav!**
 
-I'm a **Front-End Developer** and **Security Researcher** with a deep interest in web application development and information security.
-
 - 💻 I'm a Front-End Developer and Security Researcher with a deep interest in web application development and information security..
 
 ## 🔧 **My Skills**
