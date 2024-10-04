@@ -3,9 +3,6 @@
 I'm a **Front-End Developer** and **Security Researcher** with a deep interest in web application development and information security.
 
 - 💻 I'm a Front-End Developer and Security Researcher with a deep interest in web application development and information security..
-- 🤔 Projects: [Jammming](https://github.com/yarovit-developer/jammming). More projects in the Codecademy repository.
-- 🌱 In my free time I also participate in Bug Bounty programs: [HackerOne](https://hackerone.com/), [Bucrowd](https://bugcrowd.com/) and many others.
-- 📫 Connect with Me: [Twitter](https://x.com/yarovitt)
 
 ## 🔧 **My Skills**
 
