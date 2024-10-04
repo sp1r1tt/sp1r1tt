@@ -2,6 +2,11 @@
 
 I'm a **Front-End Developer** and **Security Researcher** with a deep interest in web application development and information security.
 
+- 💻 I'm a Front-End Developer and Security Researcher with a deep interest in web application development and information security..
+- 🤔 Projects: [Jammming](https://github.com/yarovit-developer/jammming). More projects in the Codecademy repository.
+- 🌱 In my free time I also participate in Bug Bounty programs: [HackerOne](https://hackerone.com/), [Bucrowd](https://bugcrowd.com/) and many others.
+- 📫 Connect with Me: [Twitter](https://x.com/yarovitt)
+
 ## 🔧 **My Skills**
 
 ### **Programming Languages**  
@@ -28,9 +33,9 @@ I'm a **Front-End Developer** and **Security Researcher** with a deep interest i
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-### **Other**  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+### ⚙️ Other
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 💻 **Projects**
 
