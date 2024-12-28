@@ -43,7 +43,7 @@ I’m currently working on:
 - In my free time, I participate in Bug Bounty programs.
 
 ## 📫 Connect with Me
-- GitHub: [yarovit-developer](https://github.com/yarovit-developer)
-- Twitter: [yarovitt](https://x.com/yarovitt)
+- GitHub: [yarovit-developer](https://github.com/sp1r1tt)
+- Twitter: [yarovitt](https://x.com/sp1r1t2025)
 
 Thanks for your visit! 🚀
