@@ -1,4 +1,4 @@
-- 💻 Web developer with a lot of experience in development. My first websites were created on wordpress..... At the moment I am developing as a Front-End Developer, using HTML, CSS, Javascript, React, Next.js, Redux, Zustand, MUI, RESTful API, Git, Astro, TypeScript, Tailwind CSS, ShadCN UI, Lucide React, Iron-Session, GraphQL, Axios, Wordpress, Woocommerce.
+№💻 Web developer with a lot of experience in development. My first websites were created on wordpress..... At the moment I am developing as a Front-End Developer, using HTML, CSS, Javascript, React, Next.js, Redux, Zustand, MUI, RESTful API, Git, Astro, TypeScript, Tailwind CSS, ShadCN UI, Lucide React, Iron-Session, GraphQL, Axios, Wordpress, Woocommerce.
 
 ## 🔧 **My Skills**
 
