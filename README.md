@@ -1,11 +1,10 @@
-# 👋 **Hello, I'm Vladyslav!**
-
-- 💻 I'm a Front-End Developer and Security Researcher with a deep interest in web application development and cybersecurity.
+- 💻 Web developer with a lot of experience in development. My first websites were created on wordpress..... At the moment I am developing as a Front-End Developer, using HTML, CSS, Javascript, React, Next.js, Redux, Zustand, MUI, RESTful API, Git, Astro, TypeScript, Tailwind CSS, ShadCN UI, Lucide React, Iron-Session, GraphQL, Axios, Wordpress, Woocommerce.
 
 ## 🔧 **My Skills**
 
 ### **Programming Languages**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ### **Front-End Development**  
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
